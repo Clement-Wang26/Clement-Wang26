@@ -9,7 +9,7 @@ I'm passionate about building efficient and scalable AI systems, with a current 
 - 🌐 **High-Performance Networking** - Building low-latency, high-throughput communication systems.
 - ☁️ **Virtualization** - Creating robust isolation and resource management solutions.
 
-I believe in making a meaningful impact through small but focused contributions. ✨ I'm committed to open-source development and sharing knowledge with the community.
+✨ I believe in making a meaningful impact through small but focused contributions. I'm committed to open-source development and sharing knowledge with the community.
 
 Let's collaborate and build something great together! 💪
 <!--
