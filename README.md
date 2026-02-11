@@ -1,4 +1,4 @@
-🚀 AI Infrastructure Engineer
+🚀 Hi there! I'm an AI Infrastructure Engineer.
 
 I'm passionate about building efficient and scalable AI systems. My interests span across:
 
