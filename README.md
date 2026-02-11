@@ -2,11 +2,11 @@
 
 I'm passionate about building efficient and scalable AI systems. My interests span across:
 
-- **Training & Inference Frameworks** - Designing and optimizing frameworks for large-scale model training and inference
-- **Operator Optimization** - Implementing high-performance operators to maximize computational efficiency
-- **Reinforcement Learning Algorithms** - Exploring novel RL approaches and their practical applications
-- **High-Performance Networking** - Building low-latency, high-throughput communication systems
-- **Virtualization** - Creating robust isolation and resource management solutions
+- **Training & Inference Frameworks** - Designing and optimizing frameworks for large-scale model training and inference.
+- **Operator Optimization** - Implementing high-performance operators to maximize computational efficiency.
+- **Reinforcement Learning Algorithms** - Exploring novel RL approaches and their practical applications.
+- **High-Performance Networking** - Building low-latency, high-throughput communication systems.
+- **Virtualization** - Creating robust isolation and resource management solutions.
 
 I believe in making a meaningful impact through small but focused contributions. I'm committed to open-source development and sharing knowledge with the community.
 
