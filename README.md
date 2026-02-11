@@ -1,6 +1,6 @@
 🚀 Hi there! I'm an AI Infrastructure Engineer.
 
-I'm passionate about building efficient and scalable AI systems. My interests span across:
+I'm passionate about building efficient and scalable AI systems, **with a current focus on inference optimization**. My interests also span across:
 
 - **Training & Inference Frameworks** - Designing and optimizing frameworks for large-scale model training and inference.
 - **Operator Optimization** - Implementing high-performance operators to maximize computational efficiency.
