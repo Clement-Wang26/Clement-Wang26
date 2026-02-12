@@ -11,7 +11,7 @@ I'm passionate about building efficient and scalable AI systems, with a current 
 
 ✨ I believe in making a meaningful impact through small but focused contributions. I'm committed to open-source development and sharing knowledge with the community.
 
-Let's collaborate and build something great together! 💪
+💪 Let's collaborate and build something great together! 
 <!--
 **Clement-Wang26/Clement-Wang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
